@@ -1,0 +1,750 @@
+[
+    {
+      "venue": "Welcome to Fabulous Las Vegas Sign",
+      "image": null,
+      "deal_details": "Iconic photo opportunity located south of Mandalay Bay. Parking available on-site and reachable via the DOS bus route.",
+      "location": "strip",
+      "gps": "36.0801, -115.1722",
+      "price": "Free",
+      "tags": ["free", "photo", "iconic"]
+    },
+    {
+      "venue": "Luxor's Theming",
+      "image": null,
+      "deal_details": "Experience Luxor's unique Egyptian theming with surreal visuals and striking photo opportunities inside and outside the resort.",
+      "location": "strip",
+      "gps": "36.0955, -115.1761",
+      "price": "Free",
+      "tags": ["free", "theming", "photo"]
+    },
+    {
+      "venue": "Free South Strip Tram",
+      "image": null,
+      "deal_details": "Ride the free tram connecting Mandalay Bay, Luxor, and Excalibur to save steps and enjoy scenic views.",
+      "location": "strip",
+      "gps": "36.0986, -115.1750",
+      "price": "Free",
+      "tags": ["free", "transportation", "tram"]
+    },
+    {
+      "venue": "Hershey's Chocolate World at NYNY",
+      "image": null,
+      "deal_details": "Explore a wall of Hershey's Kisses, the chocolate Statue of Liberty, and themed merchandise in a fun, immersive setting.",
+      "location": "strip",
+      "gps": "36.1020, -115.1745",
+      "price": "Free",
+      "tags": ["free", "theming", "photo"]
+    },
+    {
+      "venue": "Stranger Things Las Vegas Things Store",
+      "image": null,
+      "deal_details": "Visit this unique store in the Showcase Mall packed with Stranger Things set recreations, Demogorgon props, and exclusive merchandise.",
+      "location": "strip",
+      "gps": "36.1050, -115.1720",
+      "price": "Free",
+      "tags": ["free", "store", "photo"]
+    },
+    {
+      "venue": "M&M's World",
+      "image": null,
+      "deal_details": "Experience vibrant, M&M-themed displays and merchandise along with fun photo opportunities.",
+      "location": "strip",
+      "gps": "36.1055, -115.1725",
+      "price": "Free",
+      "tags": ["free", "store", "photo"]
+    },
+    {
+      "venue": "Coca Cola Store",
+      "image": null,
+      "deal_details": "Discover soda-branded merchandise and sample international beverages with the unique Around the World Tray experience.",
+      "location": "strip",
+      "gps": "36.1058, -115.1728",
+      "price": "Free",
+      "tags": ["free", "store", "photo"]
+    },
+    {
+      "venue": "Topgolf's Hideaway Pool",
+      "image": null,
+      "deal_details": "Relax at Topgolf's Hideaway Pool—free for anyone 21+ to access for a refreshing break from the casino floor.",
+      "location": "strip",
+      "gps": "36.0998, -115.1668",
+      "price": "Free",
+      "tags": ["free", "recreation", "pool"]
+    },
+    {
+      "venue": "Aria's Hotel Lobby and Art",
+      "image": null,
+      "deal_details": "Admire seasonal art installations and impressive architectural displays in the Aria hotel lobby.",
+      "location": "strip",
+      "gps": "36.1079, -115.1765",
+      "price": "Free",
+      "tags": ["free", "art", "lobby"]
+    },
+    {
+      "venue": "Aria Express Tram",
+      "image": null,
+      "deal_details": "Utilize the free Aria Express Tram to travel between Park MGM, Aria, Vdara, and The Shops at Crystal's.",
+      "location": "strip",
+      "gps": "36.1085, -115.1750",
+      "price": "Free",
+      "tags": ["free", "transportation", "tram"]
+    },
+    {
+      "venue": "Art at The Cosm(params:opolitan",
+      "image": null,
+      "deal_details": "Explore unique sculptures, wall art, and interactive installations throughout The Cosmopolitan.",
+      "location": "strip",
+      "gps": "36.1099, -115.1739",
+      "price": "Free",
+      "tags": ["free", "art", "sculpture"]
+    },
+    {
+      "venue": "Miracle Mile Shops Freebies",
+      "image": null,
+      "deal_details": "Catch the revamped rain and light shows along with other themed displays at the Miracle Mile Shops.",
+      "location": "strip",
+      "gps": "36.1100, -115.1720",
+      "price": "Free",
+      "tags": ["free", "entertainment", "shop"]
+    },
+    {
+      "venue": "Paris Las Vegas Theming",
+      "image": null,
+      "deal_details": "Take in the Parisian charm with a replica Eiffel Tower, cobblestone walkways, and romantic street scenes.",
+      "location": "strip",
+      "gps": "36.1125, -115.1724",
+      "price": "Free",
+      "tags": ["free", "theming", "photo"]
+    },
+    {
+      "venue": "Fountains of Bellagio",
+      "image": null,
+      "deal_details": "Enjoy the mesmerizing choreographed fountain show set to a rotating selection of music.",
+      "location": "strip",
+      "gps": "36.1131, -115.1765",
+      "price": "Free",
+      "tags": ["free", "entertainment", "water"]
+    },
+    {
+      "venue": "Bellagio Conservatory",
+      "image": null,
+      "deal_details": "Admire the stunning seasonal floral displays and themed decor in this iconic conservatory.",
+      "location": "strip",
+      "gps": "36.1128, -115.1765",
+      "price": "Free",
+      "tags": ["free", "art", "display"]
+    },
+    {
+      "venue": "Forum Shops at Caesars Palace - Roman Fountains",
+      "image": null,
+      "deal_details": "Witness intricate Roman-themed fountains, sculptures, and a 50,000-gallon saltwater aquarium amid luxury shopping.",
+      "location": "strip",
+      "gps": "36.1168, -115.1745",
+      "price": "Free",
+      "tags": ["free", "entertainment", "fountains"]
+    },
+    {
+      "venue": "Fall of Atlantis Show",
+      "image": null,
+      "deal_details": "Watch an entertaining animatronic show with fire and water effects in the Forum Shops area.",
+      "location": "strip",
+      "gps": "36.1168, -115.1745",
+      "price": "Free",
+      "tags": ["free", "show", "entertainment"]
+    },
+    {
+      "venue": "Carnaval Court Live Music",
+      "image": null,
+      "deal_details": "Experience free live music in an outdoor setting at Carnaval Court between Harrah's and Linq.",
+      "location": "strip",
+      "gps": "36.1175, -115.1703",
+      "price": "Free",
+      "tags": ["free", "music", "live"]
+    },
+    {
+      "venue": "Big Elvis at The Piano Bar",
+      "image": null,
+      "deal_details": "Catch free performances by Big Elvis at Harrah's Piano Bar on select nights.",
+      "location": "strip",
+      "gps": "36.1199, -115.1703",
+      "price": "Free",
+      "tags": ["free", "entertainment", "music"]
+    },
+    {
+      "venue": "Grand Canal Shoppes at The Venetian",
+      "image": null,
+      "deal_details": "Stroll through a picturesque, Venice-themed mall complete with real canals, gondolas, and charming photo ops.",
+      "location": "strip",
+      "gps": "36.1215, -115.1696",
+      "price": "Free",
+      "tags": ["free", "entertainment", "themed"]
+    },
+    {
+      "venue": "Love Sign Photo Op",
+      "image": null,
+      "deal_details": "Snap a memorable photo in front of the iconic 'Love' sign—a must for couples and visitors.",
+      "location": "strip",
+      "gps": "36.1215, -115.1696",
+      "price": "Free",
+      "tags": ["free", "photo", "romantic"]
+    },
+    {
+      "venue": "TI's Wooly Mammoth Tusk & Motorcycle",
+      "image": null,
+      "deal_details": "Admire an intricately crafted woolly mammoth tusk display paired with a detailed motorcycle exhibit.",
+      "location": "strip",
+      "gps": "36.1249, -115.1719",
+      "price": "Free",
+      "tags": ["free", "exhibit", "history"]
+    },
+    {
+      "venue": "Wynn's Floral Conservatory",
+      "image": null,
+      "deal_details": "Take a stroll through this lush, elaborate floral display—a perennial free attraction at Wynn.",
+      "location": "strip",
+      "gps": "36.1266, -115.1657",
+      "price": "Free",
+      "tags": ["free", "art", "display"]
+    },
+    {
+      "venue": "Wynn's Lake of Dreams",
+      "image": null,
+      "deal_details": "Watch a mesmerizing free water, light, and music show that transforms the Wynn every evening.",
+      "location": "strip",
+      "gps": "36.1266, -115.1657",
+      "price": "Free",
+      "tags": ["free", "show", "entertainment"]
+    },
+    {
+      "venue": "Sahara's Azilo Ultra Pool",
+      "image": null,
+      "deal_details": "Enjoy the vibrant atmosphere at Sahara's pool—free access with a party vibe (note: cover charges may apply occasionally).",
+      "location": "strip",
+      "gps": "36.1422, -115.1565",
+      "price": "Free",
+      "tags": ["free", "recreation", "pool"]
+    },
+    {
+      "venue": "Atomic Golf's Putting District",
+      "image": null,
+      "deal_details": "Test your skills at free indoor putting lanes featuring simple, fun games.",
+      "location": "strip",
+      "gps": "36.1473, -115.1554",
+      "price": "Free",
+      "tags": ["free", "recreation", "game"]
+    },
+    {
+      "venue": "Fremont Street Experience Concerts",
+      "image": null,
+      "deal_details": "Enjoy a series of free concerts along Fremont Street during the summer featuring various well-known bands.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "Free",
+      "tags": ["free", "concert", "music"]
+    },
+    {
+      "venue": "Fremont Street Canopy Light Show",
+      "image": null,
+      "deal_details": "Watch a spectacular free light show on the Fremont Street canopy, featuring vibrant, modern displays.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "Free",
+      "tags": ["free", "light show", "entertainment"]
+    },
+    {
+      "venue": "Sand Dollar Lounge at Plaza",
+      "image": null,
+      "deal_details": "Catch free live music at this trendy downtown lounge—occasionally subject to a cover charge.",
+      "location": "fremont",
+      "gps": "36.1710, -115.1460",
+      "price": "Free",
+      "tags": ["free", "music", "live"]
+    },
+    {
+      "venue": "Golden Gate Hotel History Display",
+      "image": null,
+      "deal_details": "Explore historic displays including original hotel walls and a fountain dating back to 1909 at the Golden Gate.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1460",
+      "price": "Free",
+      "tags": ["free", "history", "display"]
+    },
+    {
+      "venue": "Binion's New Million Dollar Display",
+      "image": null,
+      "deal_details": "See an impressive display of cash and memorabilia that pays tribute to Vegas history at Binion's.",
+      "location": "fremont",
+      "gps": "36.1710, -115.1440",
+      "price": "Free",
+      "tags": ["free", "history", "display"]
+    },
+    {
+      "venue": "The Mint at Binion's",
+      "image": null,
+      "deal_details": "Visit the historic Mint area to admire unique design elements from Binion's early days.",
+      "location": "fremont",
+      "gps": "36.1710, -115.1440",
+      "price": "Free",
+      "tags": ["free", "history", "exhibit"]
+    },
+    {
+      "venue": "Main Street Station Antiques",
+      "image": null,
+      "deal_details": "Browse an extensive collection of antiques housed in a charming Victorian-era Main Street Station.",
+      "location": "fremont",
+      "gps": "36.1720, -115.1460",
+      "price": "Free",
+      "tags": ["free", "antiques", "exhibit"]
+    },
+    {
+      "venue": "The Blarney Stone at The D Castle",
+      "image": null,
+      "deal_details": "Experience a taste of Irish luck by visiting the Blarney Stone exhibit—legend has it a kiss brings good fortune.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1430",
+      "price": "Free",
+      "tags": ["free", "exhibit", "photo"]
+    },
+    {
+      "venue": "Downtown Container Park",
+      "image": null,
+      "deal_details": "Explore a vibrant collection of shops, bars, and live music performances in a unique container park setting.",
+      "location": "fremont",
+      "gps": "36.1680, -115.1410",
+      "price": "Free",
+      "tags": ["free", "entertainment", "recreation"]
+    },
+    {
+      "venue": "Free Downtown Loop Shuttle",
+      "image": null,
+      "deal_details": "Use the free shuttle service to travel between key attractions along Fremont Street.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "Free",
+      "tags": ["free", "transportation", "shuttle"]
+    },
+    {
+      "venue": "Pawn Stars Pawn Shop",
+      "image": null,
+      "deal_details": "Explore the famous Pawn Shop from the hit show for a glimpse of bartered treasures and unique memorabilia.",
+      "location": "fremont",
+      "gps": "36.1630, -115.1480",
+      "price": "Free",
+      "tags": ["free", "exhibit", "photo"]
+    },
+    {
+      "venue": "Heart Attack Grill Free Weigh-In",
+      "image": null,
+      "deal_details": "Take advantage of a free weigh-in at Heart Attack Grill where your weight can earn you a free meal credit.",
+      "location": "fremont",
+      "gps": "36.1680, -115.1420",
+      "price": "Varies",
+      "tags": ["free", "promotion", "unique"]
+    },
+    {
+      "venue": "Fremont Street Street Performers",
+      "image": null,
+      "deal_details": "Enjoy a variety of free live performances by street artists and musicians along Fremont Street.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "Free",
+      "tags": ["free", "performance", "entertainment"]
+    },
+    {
+      "venue": "The Toy Shack",
+      "image": null,
+      "deal_details": "Browse nostalgic toys and collectibles in a fun shop that’s free to enter, as seen on Pawn Stars.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1430",
+      "price": "Free",
+      "tags": ["free", "shop", "nostalgia"]
+    },
+    {
+      "venue": "Area15",
+      "image": null,
+      "deal_details": "Explore an immersive art and entertainment complex with free entry to the main area.",
+      "location": "strip",
+      "gps": "36.1340, -115.1630",
+      "price": "Free",
+      "tags": ["free", "art", "entertainment"]
+    },
+    {
+      "venue": "Pinball Hall of Fame",
+      "image": null,
+      "deal_details": "Play pinball and arcade games from the 1950s to today. Entry is free, games use quarters.",
+      "location": "strip",
+      "gps": "36.0986, -115.1715",
+      "price": "Free entry, quarters needed",
+      "tags": ["free", "arcade", "retro"]
+    },
+    {
+      "venue": "Shark Reef Aquarium at Mandalay Bay",
+      "image": null,
+      "deal_details": "Walk through undersea tunnels, see sharks, fish, and jellyfish. Touch pool available.",
+      "location": "strip",
+      "gps": "36.0905, -115.1746",
+      "price": "$29",
+      "tags": ["aquarium", "wildlife", "family"]
+    },
+    {
+      "venue": "Big Apple Coaster at NYNY",
+      "image": null,
+      "deal_details": "Thrilling roller coaster with upside-down twists and strip views.",
+      "location": "strip",
+      "gps": "36.1022, -115.1745",
+      "price": "$25",
+      "tags": ["roller coaster", "thrill", "views"]
+    },
+    {
+      "venue": "Cosmopolitan Boulevard Pool Deck",
+      "image": null,
+      "deal_details": "Summer dive-in movies ($15 for non-guests) or winter ice skating ($20-$30).",
+      "location": "strip",
+      "gps": "36.1099, -115.1739",
+      "price": "$15-$30",
+      "tags": ["movies", "skating", "seasonal"]
+    },
+    {
+      "venue": "High Roller Observation Wheel",
+      "image": null,
+      "deal_details": "30-minute ride with views from 550ft up.",
+      "location": "strip",
+      "gps": "36.1175, -115.1684",
+      "price": "$29",
+      "tags": ["views", "observation", "iconic"]
+    },
+    {
+      "venue": "Eiffel Tower Experience at Paris Las Vegas",
+      "image": null,
+      "deal_details": "Observation deck 541ft up with Bellagio Fountain views.",
+      "location": "strip",
+      "gps": "36.1125, -115.1724",
+      "price": "$25",
+      "tags": ["views", "photo", "observation"]
+    },
+    {
+      "venue": "Minus5 Icebar at LINQ",
+      "image": null,
+      "deal_details": "Bar made of ice, includes parka and gloves. Drinks extra.",
+      "location": "strip",
+      "gps": "36.1175, -115.1703",
+      "price": "$24",
+      "tags": ["unique", "ice", "bar"]
+    },
+    {
+      "venue": "Topgolf at MGM Grand",
+      "image": null,
+      "deal_details": "Golf bays ($50-$80/hour, split up to 6 people), free pool access.",
+      "location": "strip",
+      "gps": "36.0998, -115.1668",
+      "price": "$8-$13 per person",
+      "tags": ["golf", "social", "pool"]
+    },
+    {
+      "venue": "Atomic Golf at STRAT",
+      "image": null,
+      "deal_details": "Golf bays ($60/hour, split up to 8), free putting district.",
+      "location": "strip",
+      "gps": "36.1473, -115.1554",
+      "price": "$7.50 per person",
+      "tags": ["golf", "social", "night"]
+    },
+    {
+      "venue": "Twilight Zone Mini-Golf at Horseshoe",
+      "image": null,
+      "deal_details": "Themed mini-golf with photo ops.",
+      "location": "strip",
+      "gps": "36.1161, -115.1707",
+      "price": "$11.95",
+      "tags": ["mini-golf", "themed", "photo"]
+    },
+    {
+      "venue": "Dino Safari at Horseshoe",
+      "image": null,
+      "deal_details": "Animatronic dinosaurs and interactive stations.",
+      "location": "strip",
+      "gps": "36.1161, -115.1707",
+      "price": "$23",
+      "tags": ["dinosaurs", "family", "interactive"]
+    },
+    {
+      "venue": "Speakeasies (Ghost Donkey, Ski Lodge, Underground)",
+      "image": null,
+      "deal_details": "Hidden bars with cocktails around $20.",
+      "location": "strip",
+      "gps": "varies",
+      "price": "$20",
+      "tags": ["speakeasy", "cocktails", "unique"]
+    },
+    {
+      "venue": "STRAT SkyPod and Rides",
+      "image": null,
+      "deal_details": "Observation deck ($20-$30), rides $5 extra.",
+      "location": "strip",
+      "gps": "36.1473, -115.1554",
+      "price": "$20-$30",
+      "tags": ["views", "thrill", "observation"]
+    },
+    {
+      "venue": "Comedy Clubs (e.g., Jimmy Kimmel's)",
+      "image": null,
+      "deal_details": "Affordable comedy shows.",
+      "location": "strip",
+      "gps": "36.1175, -115.1684",
+      "price": "$30 or less",
+      "tags": ["comedy", "entertainment", "affordable"]
+    },
+    {
+      "venue": "The Neon Museum",
+      "image": null,
+      "deal_details": "Vintage Vegas signs, day visit $25.",
+      "location": "fremont",
+      "gps": "36.1776, -115.1356",
+      "price": "$25",
+      "tags": ["history", "signs", "photo"]
+    },
+    {
+      "venue": "The Movie Prop Experience",
+      "image": null,
+      "deal_details": "Film props from famous movies.",
+      "location": "fremont",
+      "gps": "36.1699, -115.1415",
+      "price": "$20",
+      "tags": ["movies", "props", "unique"]
+    },
+    {
+      "venue": "The Old Mormon Fort",
+      "image": null,
+      "deal_details": "Historic site with museum and Adobe building.",
+      "location": "fremont",
+      "gps": "36.1807, -115.1348",
+      "price": "$3",
+      "tags": ["history", "cheap", "museum"]
+    },
+    {
+      "venue": "Springs Preserve",
+      "image": null,
+      "deal_details": "Gardens, museums, and Boomtown 1905 recreation.",
+      "location": "fremont",
+      "gps": "36.1716, -115.1908",
+      "price": "$19.95",
+      "tags": ["history", "nature", "family"]
+    },
+    {
+      "venue": "Red Rock Canyon National Conservation Area",
+      "image": null,
+      "deal_details": "Scenic drive and hiking trails, $20 per carload.",
+      "location": "strip",
+      "gps": "36.1350, -115.4270",
+      "price": "$20 per car",
+      "tags": ["outdoors", "hiking", "scenic"]
+    },
+    {
+      "venue": "Area15 Attractions",
+      "image": null,
+      "deal_details": "Arcade, zipline, immersive video, and light shows under $30.",
+      "location": "strip",
+      "gps": "36.1340, -115.1630",
+      "price": "Under $30",
+      "tags": ["interactive", "variety", "unique"]
+    },
+    {
+      "venue": "Play Playground at Luxor",
+      "image": null,
+      "deal_details": "15,000 sq ft of nostalgic, large-scale games. All-day pass with 12 game credits.",
+      "location": "strip",
+      "gps": "36.0955, -115.1761",
+      "price": "$37",
+      "tags": ["games", "nostalgia", "interactive"]
+    },
+    {
+      "venue": "Pool Cabanas at STRAT",
+      "image": null,
+      "deal_details": "VIP cabana for up to 8 with $275 food and beverage minimum.",
+      "location": "strip",
+      "gps": "36.1473, -115.1554",
+      "price": "$275 (split up to 8, ~$34 per person)",
+      "tags": ["pool", "cabana", "group"]
+    },
+    {
+      "venue": "Cat's Meow Las Vegas",
+      "image": null,
+      "deal_details": "Karaoke daily at Neonopolis. 2-for-1 happy hour, opens at 5 p.m.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1430",
+      "price": "$12 for two 12oz Coors Light",
+      "tags": ["karaoke", "happy hour", "Neonopolis"]
+    },
+    {
+      "venue": "The Nerd in Neonopolis",
+      "image": null,
+      "deal_details": "Arcade, bar, movie prop museum, and 8-lane bowling alley. Free vintage video games.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1430",
+      "price": "Varies",
+      "tags": ["arcade", "nerdy", "free games"]
+    },
+    {
+      "venue": "Hot Dog & Beer Deal at Downtown Grand",
+      "image": null,
+      "deal_details": "$3 hot dog and 12oz PBR can; $5 brat and a beer.",
+      "location": "fremont",
+      "gps": "36.1710, -115.1410",
+      "price": "$3",
+      "tags": ["food", "drink", "deal"]
+    },
+    {
+      "venue": "The Sand Dollar at Plaza",
+      "image": null,
+      "deal_details": "Live music Thu-Sat, bar-top gaming, pool tables, champagne vending machine.",
+      "location": "fremont",
+      "gps": "36.1710, -115.1460",
+      "price": "Varies",
+      "tags": ["live music", "bar", "unique"]
+    },
+    {
+      "venue": "Cheap Shrimp Cocktail at Fremont",
+      "image": null,
+      "deal_details": "$3.99 shrimp cocktail at Lanai Express in the Fremont Hotel.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "$3.99",
+      "tags": ["food", "cheap", "classic"]
+    },
+    {
+      "venue": "The Mob Museum",
+      "image": null,
+      "deal_details": "History of organized crime, artifacts, interactive displays.",
+      "location": "fremont",
+      "gps": "36.1720, -115.1410",
+      "price": "Varies",
+      "tags": ["museum", "crime", "history"]
+    },
+    {
+      "venue": "The Underground Speakeasy",
+      "image": null,
+      "deal_details": "Basement speakeasy at Mob Museum, secret entry with password.",
+      "location": "fremont",
+      "gps": "36.1720, -115.1410",
+      "price": "Varies",
+      "tags": ["speakeasy", "unique", "drinks"]
+    },
+    {
+      "venue": "SlotZilla Zipline",
+      "image": null,
+      "deal_details": "$49 Zip-Zilla or $69 upper zoom line, full Fremont Street ride.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "$49-$69",
+      "tags": ["zipline", "adventure", "scenic"]
+    },
+    {
+      "venue": "Antiques at Main Street Station",
+      "image": null,
+      "deal_details": "Free antiques like Berlin Wall piece, Churchill’s snooker table.",
+      "location": "fremont",
+      "gps": "36.1720, -115.1460",
+      "price": "Free",
+      "tags": ["antiques", "history", "free"]
+    },
+    {
+      "venue": "History at Golden Gate",
+      "image": null,
+      "deal_details": "Free look at 1906 wall, 1909 fountain, vintage slot museum.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1460",
+      "price": "Free",
+      "tags": ["history", "free", "museum"]
+    },
+    {
+      "venue": "The Toy Shack in Neonopolis",
+      "image": null,
+      "deal_details": "Vintage and modern toys, Pawn Stars affiliation.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1430",
+      "price": "Free entry",
+      "tags": ["toys", "nostalgia", "Pawn Stars"]
+    },
+    {
+      "venue": "The Movie Prop Experience",
+      "image": null,
+      "deal_details": "Props from Jurassic Park, Titanic, etc. in Neonopolis.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1430",
+      "price": "Varies",
+      "tags": ["movie props", "museum", "unique"]
+    },
+    {
+      "venue": "Pizza Rock",
+      "image": null,
+      "deal_details": "Best pizza by the slice at Downtown Grand.",
+      "location": "fremont",
+      "gps": "36.1710, -115.1410",
+      "price": "Varies",
+      "tags": ["pizza", "food", "best"]
+    },
+    {
+      "venue": "Stadium Swim at Circa",
+      "image": null,
+      "deal_details": "Sports fan pool with 143ft screen, $20+ cover.",
+      "location": "fremont",
+      "gps": "36.1720, -115.1450",
+      "price": "$20+",
+      "tags": ["pool", "sports", "cover"]
+    },
+    {
+      "venue": "The Tank at Golden Nugget",
+      "image": null,
+      "deal_details": "Pool with shark tank and slide, $40 cover, $5 poolside craps.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "$40",
+      "tags": ["pool", "aquarium", "cover"]
+    },
+    {
+      "venue": "Street Performers",
+      "image": null,
+      "deal_details": "Varied acts like bucket drummers, tip appreciated.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "Free, tips optional",
+      "tags": ["performers", "free", "street"]
+    },
+    {
+      "venue": "Heart Attack Grill",
+      "image": null,
+      "deal_details": "Free meals over 350 lbs, hospital gown and spanking for unfinished food.",
+      "location": "fremont",
+      "gps": "36.1680, -115.1420",
+      "price": "Varies",
+      "tags": ["food", "unique", "experience"]
+    },
+    {
+      "venue": "People Watching on Fremont Street",
+      "image": null,
+      "deal_details": "Watch from Whiskey Licker Up, Carousel Bar, or 4 Queens Patio Bar.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "price": "Varies",
+      "tags": ["people watching", "bar", "free"]
+    },
+    {
+      "venue": "Zak Bagans' The Haunted Museum",
+      "image": null,
+      "deal_details": "Haunted items in Wengert Mansion, waiver required.",
+      "location": "fremont",
+      "gps": "36.1670, -115.1480",
+      "price": "Varies",
+      "tags": ["haunted", "museum", "creepy"]
+    },
+    {
+      "venue": "Sigma Derby at The D",
+      "image": null,
+      "deal_details": "Vintage horse racing game, 25¢ bets.",
+      "location": "fremont",
+      "gps": "36.1700, -115.1430",
+      "price": "$0.25+",
+      "tags": ["game", "vintage", "cheap"]
+    }
+  ]
+  

@@ -1,0 +1,6 @@
+/target
+
+# Environment
+.env
+.env.*
+!.env.example

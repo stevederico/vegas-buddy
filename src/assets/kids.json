@@ -1,0 +1,850 @@
+[
+    {
+      "venue": "Dreambox 360",
+      "image": null,
+      "deal_details": "Immersive video with 360-degree projection, fog, lights, and scents.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "LINQ Promenade",
+      "gps": "36.1175, -115.1710",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Minus5 Icebar",
+      "image": null,
+      "deal_details": "Everything made of ice, kids 7+ allowed before 9 p.m., includes parka and gloves.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "21:00"
+        }
+      ],
+      "location": "Venetian, LINQ Promenade, Mandalay Bay",
+      "gps": "36.1215, -115.1745",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "I Love Sugar",
+      "image": null,
+      "deal_details": "Bulk candy, vintage sweets, and desserts store.",
+      "price": "Varies",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "LINQ Promenade",
+      "gps": "36.1175, -115.1710",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "FlyLINQ Zipline",
+      "image": null,
+      "deal_details": "Zipline over 1,121ft, up to 12 stories high, 35mph.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "LINQ Promenade",
+      "gps": "36.1175, -115.1710",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "High Roller Observation Wheel",
+      "image": null,
+      "deal_details": "550ft, 30-minute ride.",
+      "price": "$29+",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "LINQ",
+      "gps": "36.1178, -115.1686",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Helicopter Tour of the Strip",
+      "image": null,
+      "deal_details": "Aerial tour from airport to STRAT.",
+      "price": "$100+ per person",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Maverick Helicopters",
+      "gps": "36.0800, -115.1640",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "STRAT's SkyPod Observation Deck & Rides",
+      "image": null,
+      "deal_details": "871ft deck, X-Scream and Big Shot rides.",
+      "price": "$20-$30",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "STRAT",
+      "gps": "36.1473, -115.1557",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "SkyJump",
+      "image": null,
+      "deal_details": "Controlled free-fall from 829ft, ages 14+.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "STRAT",
+      "gps": "36.1473, -115.1557",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Shark Reef Aquarium",
+      "image": null,
+      "deal_details": "1.6M gallon aquarium, 100+ species, touch pool.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Mandalay Bay",
+      "gps": "36.0905, -115.1746",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Eiffel Tower Experience",
+      "image": null,
+      "deal_details": "541ft observation deck, half-scale replica.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Paris",
+      "gps": "36.1125, -115.1723",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Sphere Experience & Postcard From Earth",
+      "image": null,
+      "deal_details": "AI robots, avatar creation, scenic film.",
+      "price": "$90+",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "The Sphere",
+      "gps": "36.1210, -115.1650",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Pools at MGM Grand & Mandalay Bay",
+      "image": null,
+      "deal_details": "Wave pool, lazy river, 6.5 acres.",
+      "price": "$25 day pass",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "MGM Grand, Mandalay Bay",
+      "gps": "36.1020, -115.1740",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Immersive Van Gogh & Disney",
+      "image": null,
+      "deal_details": "500,000 cubic ft projection of Van Gogh or Disney animation.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Shops at Crystals",
+      "gps": "36.1070, -115.1745",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Arte Museum",
+      "image": null,
+      "deal_details": "Digital nature visuals, Star Raindrop room.",
+      "price": "$50+",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Las Vegas",
+      "gps": "36.1140, -115.1720",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Museum of Illusions",
+      "image": null,
+      "deal_details": "Optical illusions, photo ops, rotating drum walkway.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Next to Arte Museum",
+      "gps": "36.1140, -115.1720",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Secret Pizza",
+      "image": null,
+      "deal_details": "Unmarked pizza joint, slice sales.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Cosmopolitan",
+      "gps": "36.1095, -115.1740",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Madame Tussauds",
+      "image": null,
+      "deal_details": "Wax figures of celebrities like Katy Perry, Drake.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Venetian",
+      "gps": "36.1215, -115.1745",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "HyperX Esports Arena",
+      "image": null,
+      "deal_details": "30,000 sq ft gaming.",
+      "price": "$15/hour",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Luxor",
+      "gps": "36.0955, -115.1760",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Bodies... The Exhibition",
+      "image": null,
+      "deal_details": "Real human cadavers, smoker's lung display.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Luxor, Horseshoe",
+      "gps": "36.0955, -115.1760",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Titanic: The Artifact Exhibition",
+      "image": null,
+      "deal_details": "250+ artifacts, real iceberg, 15-ton ship section.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Luxor",
+      "gps": "36.0955, -115.1760",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Discovering King Tut's Tomb",
+      "image": null,
+      "deal_details": "Reproduction artifacts, Howard Carter's discovery.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Luxor",
+      "gps": "36.0955, -115.1760",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Dive In Movies & Skating at Cosmopolitan",
+      "image": null,
+      "deal_details": "Summer movies, winter skating.",
+      "price": "$15 movies, $30 skating",
+      "time_windows": [
+        {
+          "days": ["Mon"],
+          "start_time": "19:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Cosmopolitan",
+      "gps": "36.1095, -115.1740",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Kid-Friendly Shows in Vegas",
+      "image": null,
+      "deal_details": "Popovich Comedy Pet Theater, BattleBots, Paranormal Mind Reading.",
+      "price": "$30+",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Various",
+      "gps": "36.1140, -115.1720",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Circus Circus Midway & Arcade",
+      "image": null,
+      "deal_details": "200 arcade and midway games, prize redemption.",
+      "price": "Varies",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Circus Circus",
+      "gps": "36.1375, -115.1650",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "The Adventuredome at Circus Circus",
+      "image": null,
+      "deal_details": "Indoor amusement park.",
+      "price": "$30-$60 all-day pass",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Circus Circus",
+      "gps": "36.1375, -115.1650",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Flamingo's Wildlife Habitat",
+      "image": null,
+      "deal_details": "Birds, fish, flamingos.",
+      "price": "Free",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Flamingo",
+      "gps": "36.1160, -115.1705",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Coca Cola Store",
+      "image": null,
+      "deal_details": "Soda merchandise, Around the World Tray with 16 sodas.",
+      "price": "Varies",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Showcase Mall",
+      "gps": "36.1050, -115.1720",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "M&Ms World",
+      "image": null,
+      "deal_details": "M&M merchandise, bulk M&Ms, custom inscriptions.",
+      "price": "Varies",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Showcase Mall",
+      "gps": "36.1050, -115.1720",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Hershey's Chocolate World",
+      "image": null,
+      "deal_details": "Chocolate Statue of Liberty, candy merchandise, milkshake bar.",
+      "price": "Varies",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "New York New York",
+      "gps": "36.1020, -115.1740",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Bellagio's Conservatory & Fountains",
+      "image": null,
+      "deal_details": "Seasonal conservatory, choreographed fountains.",
+      "price": "Free",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Bellagio",
+      "gps": "36.1120, -115.1765",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Twilight Zone by Monster Mini Golf",
+      "image": null,
+      "deal_details": "Mini golf with visuals, small arcade.",
+      "price": "$11.95 per person",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Horseshoe",
+      "gps": "36.1160, -115.1700",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Big Apple Coaster",
+      "image": null,
+      "deal_details": "203ft drop, 67mph.",
+      "price": "$25 per ride",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "New York New York",
+      "gps": "36.1020, -115.1740",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Topgolf",
+      "image": null,
+      "deal_details": "Social golf games, Strip views.",
+      "price": "$47/hour bay",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "MGM Grand",
+      "gps": "36.1020, -115.1740",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Atomic Golf",
+      "image": null,
+      "deal_details": "Social golf games, cosmic lighting at night.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "STRAT",
+      "gps": "36.1473, -115.1557",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Stranger Things Official Store",
+      "image": null,
+      "deal_details": "Photo ops, set recreations.",
+      "price": "Free",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Showcase Mall",
+      "gps": "36.1050, -115.1720",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Pinball Hall of Fame",
+      "image": null,
+      "deal_details": "25,000 sq ft of pinball and arcade games.",
+      "price": "Free entry, quarters to play",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "South Strip",
+      "gps": "36.0830, -115.1530",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "The Fall of Atlantis Show",
+      "image": null,
+      "deal_details": "Animatronic show with water and fire effects.",
+      "price": "Free",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Forum Shops at Caesars",
+      "gps": "36.1170, -115.1760",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Themed Resorts",
+      "image": null,
+      "deal_details": "Venetian gondola rides, Luxor Egypt, NYNY Greenwich Village.",
+      "price": "Varies",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Strip",
+      "gps": "36.1140, -115.1720",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "The Mob Museum",
+      "image": null,
+      "deal_details": "History of organized crime, engaging displays.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "fremont",
+      "gps": "36.1720, -115.1410",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Downtown Container Park",
+      "image": null,
+      "deal_details": "Playground, oversized games, praying mantis show.",
+      "price": "Free",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "fremont",
+      "gps": "36.1680, -115.1400",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "SlotZilla Zipline",
+      "image": null,
+      "deal_details": "ZipZilla or Super-Hero Zoomline.",
+      "price": "$69 unlimited weekdays",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "fremont",
+      "gps": "36.1700, -115.1440",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Million Dollar Photo Opp",
+      "image": null,
+      "deal_details": "Photo with $1M at Binion's.",
+      "price": "Free",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "fremont",
+      "gps": "36.1710, -115.1440",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Pawn Stars Pawn Shop",
+      "image": null,
+      "deal_details": "See items from the show, shop merchandise.",
+      "price": "Free",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "fremont",
+      "gps": "36.1620, -115.1460",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "The Neon Museum",
+      "image": null,
+      "deal_details": "250+ vintage signs, night visits recommended.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "fremont",
+      "gps": "36.1770, -115.1350",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "The Tank at Golden Nugget",
+      "image": null,
+      "deal_details": "200,000 gallon aquarium with slide.",
+      "price": "$40 per person",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "fremont",
+      "gps": "36.1700, -115.1430",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "The Toy Shack",
+      "image": null,
+      "deal_details": "Toys from past and present, Hot Wheels, action figures.",
+      "price": "Varies",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Neonopolis",
+      "gps": "36.1700, -115.1410",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Area15 & Omega Mart",
+      "image": null,
+      "deal_details": "Arcade, Illuminarium, golf, zipline, Omega Mart portals.",
+      "price": "strip",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Off-Strip",
+      "gps": "36.1320, -115.1650",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "PopStroke at Town Square",
+      "image": null,
+      "deal_details": "Tiger Woods mini golf, day pass for unlimited play.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Town Square",
+      "gps": "36.0660, -115.1750",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "KISS by Monster Mini Golf",
+      "image": null,
+      "deal_details": "KISS-themed mini golf, museum, arcade.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "strip",
+      "gps": "36.1160, -115.1870",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Red Rock Canyon National Conservation Area",
+      "image": null,
+      "deal_details": "13-mile scenic drive, hiking trails.",
+      "price": "$15 per car",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "15 miles from Strip",
+      "gps": "36.1350, -115.4270",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Valley of Fire State Park",
+      "image": null,
+      "deal_details": "40,000 acres, hiking, White Domes Loop, Fire Wave.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "60 min from Strip",
+      "gps": "36.4300, -114.5130",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "Hoover Dam",
+      "image": null,
+      "deal_details": "Exterior free, full tour includes power plant.",
+      "price": "$30 full tour",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "40 min from Strip",
+      "gps": "36.0160, -114.7370",
+      "tags": ["kids"]
+    },
+    {
+      "venue": "St. Thomas Ghost Town",
+      "image": null,
+      "deal_details": "Eerie ruins, foundations, school staircase, 90 min from Vegas.",
+      "price": "Not specified",
+      "time_windows": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "start_time": "00:00",
+          "end_time": "23:59"
+        }
+      ],
+      "location": "Lake Mead",
+      "gps": "36.4650, -114.4130",
+      "tags": ["kids"]
+    }
+  ]

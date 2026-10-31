@@ -1,0 +1,8 @@
+{
+  "staticDir": "../dist",
+  "database": {
+    "db": "BXVegas",
+    "dbType": "sqlite",
+    "connectionString": "./databases/BXVegas.db"
+  }
+}

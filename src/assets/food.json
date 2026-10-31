@@ -1,0 +1,494 @@
+[
+  {
+    "venue": "Blondies at Miracle Mile Shops",
+    "image": null,
+    "deal_details": "$5.95 breakfast: 2 eggs, bacon or sausage, and potatoes",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "07:00",
+        "end_time": "11:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1015, -115.1700",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "La Salsa Cantina at Miracle Mile Shops",
+    "image": null,
+    "deal_details": "$6.99 breakfast special on weekdays ($9.99 weekends) including two eggs, southwest potatoes, and choice of bacon, ham, or sausage.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "08:00",
+        "end_time": "12:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1095, -115.1716",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "Eggslut at The Cosmopolitan",
+    "image": null,
+    "deal_details": "Bacon, Egg & Cheese Sandwich for about $11.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "07:00",
+        "end_time": "14:00"
+      },
+      {
+        "days": [
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "07:00",
+        "end_time": "15:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1090, -115.1741",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "Earl of Sandwich at Planet Hollywood",
+    "image": null,
+    "deal_details": "Breakfast sandwiches under $10.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "07:00",
+        "end_time": "11:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1095, -115.1716",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "The Peppermill Restaurant and Fireside Lounge",
+    "image": null,
+    "deal_details": "Large portions of classic American breakfast items.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1362, -115.1626",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "Denny's at Casino Royale",
+    "image": null,
+    "deal_details": "Meal deals starting at $5, open 24/7.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1195, -115.1725",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "Blueberry Hill Family Restaurant",
+    "image": null,
+    "deal_details": "Classic breakfast specials under $10.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "07:30",
+        "end_time": "11:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1296, -115.1628",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "Rosa Mexicano at Miracle Mile Shops",
+    "image": null,
+    "deal_details": "$8 Rise & Rosa: egg slider, hash brown, and coffee.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1100, -115.1710",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "Cabo Wabo at Miracle Mile Shops",
+    "image": null,
+    "deal_details": "$9.99 Fully Loaded Breakfast: 3 eggs, bacon, sausage, and potatoes.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "08:00",
+        "end_time": "12:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1100, -115.1710",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "Aztec Inn",
+    "image": null,
+    "deal_details": "$5 breakfast: 2 eggs, toast, and bacon.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1460, -115.1550",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  {
+    "venue": "Haute Doggery at LINQ Promenade",
+    "image": null,
+    "deal_details": "Hot dogs from $5.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1178, -115.1708",
+    "tags": [
+      "food",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "venue": "Lanai Express at Fremont Hotel",
+    "image": null,
+    "deal_details": "$3.99 shrimp cocktail.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1705, -115.1438",
+    "tags": [
+      "food",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "venue": "Steak 'n Shake at Fremont Hotel",
+    "image": null,
+    "deal_details": "$5.99 Single Steakburger combo.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1705, -115.1438",
+    "tags": [
+      "food",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "venue": "Bacon Nation at The D",
+    "image": null,
+    "deal_details": "$9.99 Daybreak breakfast: 2 eggs, bacon, sausage, and toast; $10.99 lunch specials.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "07:00",
+        "end_time": "09:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1694, -115.1432",
+    "tags": [
+      "food",
+      "breakfast",
+      "lunch"
+    ]
+  },
+  {
+    "venue": "American Coney Island at The D",
+    "image": null,
+    "deal_details": "$5.05 Coney dog, $5.75 chili cheese fries.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1694, -115.1432",
+    "tags": [
+      "food",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "venue": "Hot Dog Cart at El Cortez",
+    "image": null,
+    "deal_details": "$4.25 hot dog, $5.25 brat.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1690, -115.1393",
+    "tags": [
+      "food",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "venue": "Tacos Escobar on Fremont East",
+    "image": null,
+    "deal_details": "$20 all-you-can-eat tacos (1-hour limit).",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1682, -115.1400",
+    "tags": [
+      "food",
+      "dinner"
+    ]
+  },
+  {
+    "venue": "Evel Pie on Fremont East",
+    "image": null,
+    "deal_details": "$8 cheese slice and a beer.",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1680, -115.1408",
+    "tags": [
+      "food",
+      "lunch",
+      "dinner"
+    ]
+  }
+]

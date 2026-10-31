@@ -1,0 +1,2259 @@
+[
+  {
+    "venue": "Buca di Beppo at Excalibur",
+    "image": null,
+    "deal_details": "$5 Bud Lights, $6 Blue Moon & Peroni, $25 buckets of beer",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.0988, -115.1755",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "The Ski Lodge",
+    "image": null,
+    "deal_details": "Speakeasy -- Cocktails $15-$20, no specific happy hour",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "17:00",
+        "end_time": "close"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1099, -115.1741",
+    "tags": [
+      "cocktails",
+      "speakeasy"
+    ]
+  },
+  {
+    "venue": "Dick's Last Resort at Excalibur",
+    "image": null,
+    "deal_details": "$8 domestic bottles, $8 house liquors, $8 margaritas, $8 apps",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "12:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.0988, -115.1755",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "OYO",
+    "image": null,
+    "deal_details": "$2 bottled Bud Light & Michelob Ultra",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1060, -115.1660",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Broadway Burger Bar at NYNY",
+    "image": null,
+    "deal_details": "$8 16oz draft beers, $8 wine by the glass, $8 well drinks, $7 bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1021, -115.1745",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Gonzalez y Gonzalez at NYNY",
+    "image": null,
+    "deal_details": "$6.95 16oz Modelo drafts, $6.95 palomas, $8.95 well drinks, $9.95 house margaritas",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1021, -115.1745",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Il Fornaio at NYNY",
+    "image": null,
+    "deal_details": "$8 Italian & domestic beers, $9 wine by the glass, $10 cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1021, -115.1745",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "BetMGM Sportsbook & Bar at Park MGM",
+    "image": null,
+    "deal_details": "$7.77 draft beer, $5 bar bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "19:00",
+        "end_time": "close"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1050, -115.1740",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Hard Rock Cafe at Showcase Mall",
+    "image": null,
+    "deal_details": "$5 domestic drafts, $6 international drafts, $6 well drinks, $7 wine by the glass, $7 cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1105, -115.1715",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Bardot Brasserie at Aria",
+    "image": null,
+    "deal_details": "Discounted beer, wine & cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1079, -115.1775",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Blondies at Planet Hollywood",
+    "image": null,
+    "deal_details": "$20 All-you-can-drink deal; $9 12oz Coors Light at Outside window",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1099, -115.1720",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Flights at Planet Hollywood",
+    "image": null,
+    "deal_details": "$15 three drink flights, rotating selection",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1099, -115.1720",
+    "tags": [
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Ketchup Premium Burger Bar at Planet Hollywood",
+    "image": null,
+    "deal_details": "$5 tallboy cans at the walk-up bar; add a Bud Light draft for $3",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1099, -115.1720",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Stage Door Casino",
+    "image": null,
+    "deal_details": "$2 bottles of Dos Equis & Heineken, $3.75 Bud/Bud Light",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1180, -115.1660",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Virgil's BBQ at LINQ",
+    "image": null,
+    "deal_details": "$6 draft beers, $8 wine by the glass, $7/$8 cocktails, $30 5-beer buckets",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1175, -115.1700",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "ameriCAN at LINQ",
+    "image": null,
+    "deal_details": "$5 featured shots",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1175, -115.1700",
+    "tags": [
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Favorite Bistro at LINQ",
+    "image": null,
+    "deal_details": "$5.95 draft beers, cocktails & wine; $10-$13 boozy shakes; $9.95 finger food",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "14:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1175, -115.1700",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Tilted Kilt at LINQ",
+    "image": null,
+    "deal_details": "$2 off draft beer, wine and well drinks; $11 apps",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "14:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1175, -115.1700",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Pizza Cake at Harrah's",
+    "image": null,
+    "deal_details": "$5 Canned beer & seltzer",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1199, -115.1710",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Casino Royale",
+    "image": null,
+    "deal_details": "$3 bottled beer",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1220, -115.1690",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "RPM Italian at Caesars Palace",
+    "image": null,
+    "deal_details": "$5 12oz beers, $8 signature cocktails, $8 wine by the glass, $8 bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1170, -115.1760",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Carmine's at Caesars Palace",
+    "image": null,
+    "deal_details": "$6 Virgil's Ale, $8 house wine, $10 martinis, $9 frozen cosmos",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1170, -115.1760",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "The Palm at Caesars Palace",
+    "image": null,
+    "deal_details": "$5 beer four varieties, $7 wine by the glass, $8 select cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:30"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1170, -115.1760",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Canaletto Grand Canal Shoppes",
+    "image": null,
+    "deal_details": "$8 Italian & domestic beer, $9 wine by the glass, $10 cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1215, -115.1745",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Cañonita Grand Canal Shoppes",
+    "image": null,
+    "deal_details": "$6 well drinks & craft beer, $7 wine by the glass, $18 pitchers of beer",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "21:00",
+        "end_time": "close"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1215, -115.1745",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Flight Club Grand Canal Shoppes",
+    "image": null,
+    "deal_details": "$6 beers, $8 liquor, $10 wine by the glass",
+    "time_windows": [
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1215, -115.1745",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Rockhouse Grand Canal Shoppes",
+    "image": null,
+    "deal_details": "$7 draft beer, $7 house wine, $7 well cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "14:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1215, -115.1745",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Electra Cocktail Lounge at Palazzo",
+    "image": null,
+    "deal_details": "$8 beer, $10 cocktails, $11 wine by the glass",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1240, -115.1710",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Sugarcane at The Venetian",
+    "image": null,
+    "deal_details": "$7 draft/canned beer, $8 cocktails, $8 wine by the glass",
+    "time_windows": [
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      },
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "22:00",
+        "end_time": "close"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1215, -115.1745",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Grand Lux Cafe at The Venetian & Palazzo",
+    "image": null,
+    "deal_details": "$10 select cocktails, $10 wine by the glass, $7 select beers, $11 bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:30"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1240, -115.1710",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Davidoff of Geneva Fashion Show Mall",
+    "image": null,
+    "deal_details": "50% off wine, cocktails & beer; Vacationer Special: 50% off draft beer, Bloody Marys, champagne, mimosas, mojitos, sangria",
+    "time_windows": [
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1270, -115.1715",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "El Segundo Sol Fashion Show Mall",
+    "image": null,
+    "deal_details": "$6.50 margaritas",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1270, -115.1715",
+    "tags": [
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Viva at Resorts World",
+    "image": null,
+    "deal_details": "$6 draft/canned/bottled beers, $6 wine by the glass, $12 margaritas",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1340, -115.1640",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "West Bar at Circus Circus",
+    "image": null,
+    "deal_details": "$5 mimosas, $6 Jim/Jack cocktails, $6 Bloody Marys, $8 bottled beer plus a shot",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "03:00",
+        "end_time": "06:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1370, -115.1650",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Slots A Fun at Circus Circus",
+    "image": null,
+    "deal_details": "$2 draft Heinekens",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1370, -115.1650",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Casbar at Sahara",
+    "image": null,
+    "deal_details": "2-for-1 cocktails, wine & beer; $7 prosecco all day",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "20:00",
+        "end_time": "21:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1420, -115.1560",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Uno Mas at Sahara",
+    "image": null,
+    "deal_details": "$5 margaritas, $7 beer, $10 wine by the glass, $8 quesadillas",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "14:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1420, -115.1560",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "108 Drinks at STRAT’s SkyPod Observation Deck",
+    "image": null,
+    "deal_details": "2-for-1 tickets and 2-for-1 drinks",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "15:00",
+        "end_time": "19:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1470, -115.1555",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Oscar's Steakhouse at Plaza",
+    "image": null,
+    "deal_details": "$5 Michelob Ultra and Bud Light bottles, $8 well cocktails, $9 wine by the glass, $12 rotating cocktails, discounted bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "17:00",
+        "end_time": "22:00"
+      },
+      {
+        "days": [
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1710, -115.1465",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Pizza Rock at DTG",
+    "image": null,
+    "deal_details": "$5 25oz PBR, $2 off select drafts and wine by the glass, $9 select cocktails, $15 pint & a shot, discounted apps",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1690, -115.1410",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Triple George at DTG",
+    "image": null,
+    "deal_details": "$5 domestic bottles, $6 house wines, $7 mules, $10 martinis, discounted bites (bar only)",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1690, -115.1410",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Downtown Grand Dog & a Beer",
+    "image": null,
+    "deal_details": "$3 hot dog and a 12oz can of PBR; $5 brat and a beer",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1690, -115.1410",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Freedom Beat at DTG",
+    "image": null,
+    "deal_details": "$6 domestic bottles, $7 import bottles; no happy hour",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1690, -115.1410",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Fremont Hotel",
+    "image": null,
+    "deal_details": "$5 Heineken and Modelo; choice of 12oz bottle or 16oz draft",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1705, -115.1440",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "The Cal Hotel & Casino",
+    "image": null,
+    "deal_details": "$5 Heineken and Modelo; choice of 12oz bottle or 16oz draft",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1700, -115.1455",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Main Street Station",
+    "image": null,
+    "deal_details": "$5 Heineken and Modelo; choice of 12oz bottle or 16oz draft",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1715, -115.1465",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Chart House at Golden Nugget",
+    "image": null,
+    "deal_details": "$6 bottled beer, $8 select premium spirits, $9 select cocktails, $10 wine by the glass, discounted bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1700, -115.1480",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Mickie Finnz",
+    "image": null,
+    "deal_details": "$7 house margaritas, $7 boozy tropical lemonade, $7 22oz Coors Light, $9 select cocktails, $8 bites, sliders / fries / boneless wings",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "16:00",
+        "end_time": "19:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1700, -115.1430",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Hennessey's Tavern",
+    "image": null,
+    "deal_details": "$7 23oz Coors Light, $7 'Ritas & spiked lemonade, $9 craft cocktails, $11 beer & shot combos, $8 snacks",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "16:00",
+        "end_time": "19:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1695, -115.1425",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Cat's Meow in Neonopolis",
+    "image": null,
+    "deal_details": "Daily 2-for-1 well drinks and domestic beer",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "17:00",
+        "end_time": "20:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1685, -115.1415",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Hammered Harry's in Neonopolis",
+    "image": null,
+    "deal_details": "$4.50 14oz drafts, $5 domestic bottles, $5 well drinks, $5 frozen margaritas, $6 house margaritas",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1685, -115.1415",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Parlour Bar at El Cortez",
+    "image": null,
+    "deal_details": "$3 Bud and Bud Light drafts, $4-$5 drafts and cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1690, -115.1380",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Eureka! on Fremont East",
+    "image": null,
+    "deal_details": "$4 domestic bottles & cans, $6 rotating drafts, $8 wine by the glass, $8.75 cocktails, discounted bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "21:00",
+        "end_time": "close"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1690, -115.1380",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Le Thai on Fremont East",
+    "image": null,
+    "deal_details": "$3 Montucky, $5 beers, 20% off wine, $6-$7 cocktails, discounted appetizers; Saturday brunch $5 mimosas",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:00"
+      },
+      {
+        "days": [
+          "Sat"
+        ],
+        "start_time": "11:30",
+        "end_time": "16:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1675, -115.1360",
+    "tags": [
+      "beer",
+      "wine",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Oak & Ivy in the Container Park",
+    "image": null,
+    "deal_details": "$6 beers, $7 well drinks, $8 cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1670, -115.1355",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Downtown Terrace in the Container Park",
+    "image": null,
+    "deal_details": "$16 bottomless draft beer, mimosas, margaritas or sangria (2-hour limit)",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1670, -115.1355",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Bin 702 in the Container Park",
+    "image": null,
+    "deal_details": "Happy hour: $5 local pints, $6 well drinks, $7 wine by the glass, $20 bottles of wine; also, $4 Coors Light bottles all day",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1670, -115.1355",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Atomic Liquors",
+    "image": null,
+    "deal_details": "$4 16oz Bush drafts;$6-$7 other domestic options as low as ",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1660, -115.1340",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Triple 7 Brewery at Main Street Station",
+    "image": null,
+    "deal_details": "$2 drafts, appetizers from $3",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "23:00",
+        "end_time": "close"
+      },
+      {
+        "days": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat"
+        ],
+        "start_time": "00:00",
+        "end_time": "03:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1715, -115.1465",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "ABC Store",
+    "image": null,
+    "deal_details": "Inexpensive drinks for stocking your room, drinks must be in a plastic cup",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1700, -115.1435",
+    "tags": [
+      "beer",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Casino Bars at Luxor & Excalibur",
+    "image": null,
+    "deal_details": "$3 margaritas, add a Sauza Gold float for $2",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.0955, -115.1761",
+    "tags": [
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Tiki Bar at Excalibur",
+    "image": null,
+    "deal_details": "$5 domestic beers, $6 imports, $8 frozen daiquiris and tiki cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.0987, -115.1754",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Bottled Blonde at Horseshoe",
+    "image": null,
+    "deal_details": "$3-$5 beer, shots and spirits; $1 wings",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1140, -115.1685",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Bonus Round at MGM Grand",
+    "image": null,
+    "deal_details": "$5 domestic drafts, $5 well drinks, $45 unlimited Power Hour",
+    "time_windows": [
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:00"
+      },
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "19:00",
+        "end_time": "21:00"
+      },
+      {
+        "days": [
+          "Fri",
+          "Sat"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:00"
+      },
+      {
+        "days": [
+          "Fri",
+          "Sat"
+        ],
+        "start_time": "21:00",
+        "end_time": "23:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1024, -115.1700",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Sportsbook Bar at MGM Grand",
+    "image": null,
+    "deal_details": "$5 domestic drafts, $5 well drinks",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "12:00",
+        "end_time": "20:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1024, -115.1700",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "YOLOS at NYNY",
+    "image": null,
+    "deal_details": "$4.95 16oz drafts & seltzer cans, $8.95 bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1024, -115.1745",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "YOLOS at Planet Hollywood",
+    "image": null,
+    "deal_details": "$4.95 16oz drafts & seltzer cans, $8.95 bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "21:00",
+        "end_time": "23:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1100, -115.1720",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Nine Fine Irishmen at NYNY",
+    "image": null,
+    "deal_details": "$5 Guinness pints, $5 Jameson shots, $5 Celtic Breezes, $7 bar bites (patio only)",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1020, -115.1740",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Jaburritos at LINQ Promenade",
+    "image": null,
+    "deal_details": "$3 Coors Light, $4 Modelo, $5 White Claw",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1175, -115.1710",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Off The Strip at LINQ Promenade",
+    "image": null,
+    "deal_details": "$5 beer, $5 well drinks, $5 house wine, $8 cantaritos",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1175, -115.1710",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Guy Fieri's Vegas Kitchen at LINQ",
+    "image": null,
+    "deal_details": "$5 16oz drafts, $9.95 cocktails",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1178, -115.1707",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Minus5 To-Go Counter at LINQ",
+    "image": null,
+    "deal_details": "$5 frozen daiquiris, $5 Pacifico & Coors Light; also at Mandalay Bay and Venetian",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1175, -115.1710",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Interlude at Vanderpump Hotel",
+    "image": null,
+    "deal_details": "$5 mixed drinks",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "11:00",
+        "end_time": "16:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1156, -115.1720",
+    "tags": [
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Cabo Wabo at Miracle Mile Shops",
+    "image": null,
+    "deal_details": "50% off draft beer, margaritas and sangria; $6 818 shots",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1100, -115.1710",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "View Lounge & Remix at STRAT",
+    "image": null,
+    "deal_details": "$5 Bud, Bud Light & Michelob Ultra bottles, $3 well shots",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "00:00",
+        "end_time": "23:59"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1475, -115.1566",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Chickie's & Pete's at Sahara",
+    "image": null,
+    "deal_details": "50% off draft beer",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "strip",
+    "gps": "36.1420, -115.1570",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Rick's Rollin' Smoke at Pawn Plaza",
+    "image": null,
+    "deal_details": "$4 wine, $4 well drinks, $5 16oz craft beer",
+    "time_windows": [
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      },
+      {
+        "days": [
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "21:00",
+        "end_time": "close"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1617, -115.1460",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Golden Gate",
+    "image": null,
+    "deal_details": "Free open bar: beer, wine & well drinks; player's card and early wristband required",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "18:00",
+        "end_time": "19:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1709, -115.1460",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Gold Spike",
+    "image": null,
+    "deal_details": "$5 well drinks, $5 drafts, $7 shots",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:00"
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "04:00",
+        "end_time": "06:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1677, -115.1425",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  },
+  {
+    "venue": "Cadillac Mexican Kitchen at Golden Nugget",
+    "image": null,
+    "deal_details": "$5 margaritas, $5 wine, $5 16oz drafts, discounted bites",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1700, -115.1450",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Hash House A Go Go at Plaza",
+    "image": null,
+    "deal_details": "$5 domestic beer, $8 big beers, $5-$8 food",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1717, -115.1468",
+    "tags": [
+      "beer"
+    ]
+  },
+  {
+    "venue": "Park on Fremont",
+    "image": null,
+    "deal_details": "$5 select drafts, $7 well drinks, $7 wine",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      },
+      {
+        "days": [
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1680, -115.1410",
+    "tags": [
+      "beer",
+      "cocktails",
+      "wine"
+    ]
+  },
+  {
+    "venue": "Carson Kitchen",
+    "image": null,
+    "deal_details": "$5 beers, $6 well drinks (bar only)",
+    "time_windows": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    ],
+    "location": "fremont",
+    "gps": "36.1667, -115.1412",
+    "tags": [
+      "beer",
+      "cocktails"
+    ]
+  }
+]
