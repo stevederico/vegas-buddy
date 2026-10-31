@@ -2,7 +2,7 @@
   "name": "BXVegas",
   "private": true,
   "license": "MIT",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "skateboardVersion": "5.6.0",
   "type": "module",
   "scripts": {

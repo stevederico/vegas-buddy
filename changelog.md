@@ -1,3 +1,8 @@
+1.16.1
+
+  Remove isSubscriber route doc
+  Point to usage check
+
 1.16.0
 
   Honor LIBSQL_URL
