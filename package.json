@@ -2,7 +2,7 @@
   "name": "BXVegas",
   "private": true,
   "license": "MIT",
-  "version": "1.16.1",
+  "version": "1.16.2",
   "skateboardVersion": "5.6.0",
   "type": "module",
   "scripts": {
@@ -19,7 +19,7 @@
     "test:docs": "node scripts/test-docs.mjs"
   },
   "dependencies": {
-    "@stevederico/skateboard-ui": "5.1.0",
+    "@stevederico/skateboard-ui": "5.11.4",
     "leaflet": "1.9.4",
     "lucide-react": "0.546.0",
     "react": "19.2.8",

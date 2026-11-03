@@ -1,3 +1,7 @@
+1.16.2
+
+  Bump skateboard-ui 5.11.4
+
 1.16.1
 
   Remove isSubscriber route doc
