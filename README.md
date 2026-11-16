@@ -4,7 +4,7 @@ Happy hours, food deals, and free attractions across Las Vegas, on an interactiv
 
 ## Tech Stack
 
-- React 19.2, Vite 8.2, skateboard 5.6.0, skateboard-ui 5.1.0
+- React 19.2, Vite 8.2, skateboard 5.6.0, skateboard-ui 5.19.0
 - Leaflet 1.9.4 for interactive maps
 - Zero-crate Rust backend, SQLite via libsqlite3
 - Tailwind CSS v4

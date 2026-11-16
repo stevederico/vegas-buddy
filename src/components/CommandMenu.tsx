@@ -9,9 +9,9 @@ import {
   CommandEmpty,
   CommandGroup,
   CommandItem,
-} from '@stevederico/skateboard-ui/shadcn/ui/command';
-import { Beer, Ham, Star } from 'lucide-react';
-import type { LucideIcon } from 'lucide-react';
+} from '@stevederico/skateboard-ui/ui/command';
+import { Beer, Ham, Star } from '@stevederico/skateboard-ui/icons';
+import type { LucideIcon } from '@stevederico/skateboard-ui/icons';
 
 /**
  * Icons for the `icon` strings in constants.json's pages array.

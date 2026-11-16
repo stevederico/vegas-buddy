@@ -1,7 +1,7 @@
 import { useEffect, useState, useRef } from "react";
 import foodDeals from "@/assets/food.json";
 import Header from '@stevederico/skateboard-ui/Header';
-import { Button } from "@stevederico/skateboard-ui/shadcn/ui/button";
+import { Button } from "@stevederico/skateboard-ui/ui/button";
 import {
   Card,
   CardContent,
@@ -9,7 +9,7 @@ import {
   CardFooter,
   CardHeader,
   CardTitle
-} from "@stevederico/skateboard-ui/shadcn/ui/card";
+} from "@stevederico/skateboard-ui/ui/card";
 import * as L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { applyLeafletIcons } from "@/utils/leafletIcons";

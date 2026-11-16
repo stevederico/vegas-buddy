@@ -1,8 +1,8 @@
 import { useEffect, useState, useRef } from "react";
 import happyHours from "@/assets/happy.json";
 import Header from '@stevederico/skateboard-ui/Header';
-import { Button } from "@stevederico/skateboard-ui/shadcn/ui/button";
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@stevederico/skateboard-ui/shadcn/ui/card";
+import { Button } from "@stevederico/skateboard-ui/ui/button";
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@stevederico/skateboard-ui/ui/card";
 import * as L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { applyLeafletIcons } from '@/utils/leafletIcons';
